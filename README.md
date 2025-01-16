@@ -40,3 +40,4 @@
 - `stack-lifo.py` — Cтек типа  LIFO (Last-In-First-Out) - последним вошел, первым вышел
 - `queue.py` — Очередь
 - `dinamic_mass.py` — Динамический массив
+- `singly_linked_list.py` — Односвязный список
