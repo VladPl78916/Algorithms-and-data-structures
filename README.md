@@ -41,3 +41,4 @@
 - `queue.py` — Очередь
 - `dinamic_mass.py` — Динамический массив
 - `singly_linked_list.py` — Односвязный список
+- `doubly_linked_list.py` — Двусвязный список
