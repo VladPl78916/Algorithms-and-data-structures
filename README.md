@@ -42,3 +42,4 @@
 - `dinamic_mass.py` — Динамический массив
 - `singly_linked_list.py` — Односвязный список
 - `doubly_linked_list.py` — Двусвязный список
+- `binary_tree.py` — Бинарное дерево
